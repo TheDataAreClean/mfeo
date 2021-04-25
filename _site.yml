@@ -12,8 +12,8 @@ navbar:
   right:
     - text: "home"
       href: index.html
-    - text: "work"
-      href: work.html
+    - text: "blog"
+      href: posts.html
     - text: "other"
       menu: 
         - text: "hyde"

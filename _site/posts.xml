@@ -3,7 +3,7 @@
   <channel>
     <title>cube</title>
     <link>https://thedataareclean.com</link>
-    <atom:link href="https://thedataareclean.com/index.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://thedataareclean.com/posts.xml" rel="self" type="application/rss+xml"/>
     <description>TheDataAreClean
 </description>
     <image>
