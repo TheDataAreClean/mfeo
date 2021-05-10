@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://thedataareclean.com/</loc>
-    <lastmod>2021-04-25T16:09:45+05:30</lastmod>
+    <lastmod>2021-05-08T11:25:15+05:30</lastmod>
   </url>
   <url>
     <loc>https://thedataareclean.com/LICENSE.html</loc>
-    <lastmod>2021-01-02T19:32:06+05:30</lastmod>
+    <lastmod>2021-05-10T10:35:48+05:30</lastmod>
   </url>
   <url>
     <loc>https://thedataareclean.com/posts.html</loc>
@@ -14,11 +14,15 @@
   </url>
   <url>
     <loc>https://thedataareclean.com/README.html</loc>
-    <lastmod>2020-12-31T16:53:46+05:30</lastmod>
+    <lastmod>2021-04-26T08:38:06+05:30</lastmod>
   </url>
   <url>
     <loc>https://thedataareclean.com/work.html</loc>
     <lastmod>2021-03-06T07:32:49+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://thedataareclean.com/posts/education-definition-cdl/</loc>
+    <lastmod>2021-05-10T10:30:47+05:30</lastmod>
   </url>
   <url>
     <loc>https://thedataareclean.com/posts/up-budget-2021-22-reco-cdl/</loc>

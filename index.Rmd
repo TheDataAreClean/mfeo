@@ -1,10 +1,11 @@
 ---
 title: "Arpit Arora"
 description: "The data was dirty.."
-image: "images/cube_2.png"
+image: images/cube_2.png
 site: distill::distill_website
 output:
   postcards::trestles
+favicon: images/favicon.ico
 ---
 
 ### About
@@ -15,8 +16,10 @@ I am a statistician by trade currently living in Bangalore, India. I work to bri
 
 Avid cyclist and reader. Passionate about `#OpenKnowledge`.
 
-### Report
+#### Work
 
 ---
 
 - [The State of Free and Open Source Software in India](https://state-of-foss.in/){target="_blank"} | Jan, '21 | CivicDataLab
+- [FOSS and Education | The State of FOSS in India | #IndiaFOSSweek](https://youtu.be/sJvc5qpDnX0) | Jan, '21 | CivicDataLab
+- [The Many Lives of Open Data](https://medium.com/civicdatalab/the-many-lives-of-open-data-1eb44becc261) | Mar, '21 | CivicDataLab

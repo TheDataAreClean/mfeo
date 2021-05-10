@@ -5,27 +5,27 @@
       "title": "Arpit Arora",
       "description": "The data was dirty..",
       "author": [],
-      "contents": "\n\n          \n          \n          \n          \n          cube\n          \n          \n          home\n          blog\n          \n          \n          other\n           \n          ▾\n          \n          \n          hyde\n          aRt\n          100 days\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Arpit Arora\n            \n            \n              \n                \n            \n          \n        \n        \n        \n          \n            \n            About\n            I am a statistician by trade currently living in Bangalore, India. I work to bring more data driven understanding of the challenges to build sustainable and intersectional solutions for the development sector with a keen interest in the education space.\n            Avid cyclist and reader. Passionate about #OpenKnowledge.\n            \n            \n            Report\n            The State of Free and Open Source Software in India | Jan, ’21 | CivicDataLab\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Arpit Arora\n            \n            \n              \n                \n                                  \n              \n            \n            \n              \n              About\n              I am a statistician by trade currently living in Bangalore, India. I work to bring more data driven understanding of the challenges to build sustainable and intersectional solutions for the development sector with a keen interest in the education space.\n              Avid cyclist and reader. Passionate about #OpenKnowledge.\n              \n              \n              Report\n              The State of Free and Open Source Software in India | Jan, ’21 | CivicDataLab\n              \n            \n        \n      \n    \n\n    \n    \n    \n\n      \n      \n\n  \n  ",
-      "last_modified": "2021-04-25T16:09:49+05:30"
+      "contents": "\n\n          \n          \n          \n          \n          cube\n          \n          \n          home\n          blog\n          \n          \n          other\n           \n          ▾\n          \n          \n          hyde\n          aRt\n          100 days\n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Arpit Arora\n            \n            \n              \n                \n            \n          \n        \n        \n        \n          \n            \n            About\n            I am a statistician by trade currently living in Bangalore, India. I work to bring more data driven understanding of the challenges to build sustainable and intersectional solutions for the development sector with a keen interest in the education space.\n            Avid cyclist and reader. Passionate about #OpenKnowledge.\n            \n            Work\n            The State of Free and Open Source Software in India | Jan, ’21 | CivicDataLab\n            FOSS and Education | The State of FOSS in India | #IndiaFOSSweek | Jan, ’21 | CivicDataLab\n            The Many Lives of Open Data | Mar, ’21 | CivicDataLab\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Arpit Arora\n            \n            \n              \n                \n                                  \n              \n            \n            \n              \n              About\n              I am a statistician by trade currently living in Bangalore, India. I work to bring more data driven understanding of the challenges to build sustainable and intersectional solutions for the development sector with a keen interest in the education space.\n              Avid cyclist and reader. Passionate about #OpenKnowledge.\n              \n              Work\n              The State of Free and Open Source Software in India | Jan, ’21 | CivicDataLab\n              FOSS and Education | The State of FOSS in India | #IndiaFOSSweek | Jan, ’21 | CivicDataLab\n              The Many Lives of Open Data | Mar, ’21 | CivicDataLab\n              \n              \n            \n        \n      \n    \n\n    \n    \n    \n\n      \n      \n\n  \n  ",
+      "last_modified": "2021-05-10T10:35:48+05:30"
     },
     {
       "path": "LICENSE.html",
       "author": [],
       "contents": "\nMIT License\nCopyright (c) 2021 TheDataAreClean\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n\n",
-      "last_modified": "2021-04-25T16:09:49+05:30"
+      "last_modified": "2021-05-10T10:35:48+05:30"
     },
     {
       "path": "posts.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-25T16:09:50+05:30"
+      "last_modified": "2021-05-10T10:35:49+05:30"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "\nTheDataAreClean\n\nWhat I want you to know about me.\n\nThis website is built using built using the distill package in R.\nDistill\nDistill for R Markdown is based on the Distill web framework, which was originally created for use in the Distill Machine Learning Journal. Distill for R Markdown combines the technical authoring features of Distill with R Markdown, enabling a fully reproducible workflow based on literate programming.\nTheme\nThe theme is inspired (read copied) from Miles McBain’s blog Before I Sleep.\nLicenses\nCode\nThe repository code is kept under the MIT License.\nText\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\n\n",
-      "last_modified": "2021-04-25T16:09:51+05:30"
+      "last_modified": "2021-05-10T10:35:49+05:30"
     },
     {
       "path": "work.html",
@@ -33,7 +33,7 @@
       "description": "Things I have done elsewhere.",
       "author": [],
       "contents": "\nReport\nThe State of Free and Open Source Software in India | Jan, ’21 | CivicDataLab\nArticles\nThe Many Lives of Open Data | Mar, ’21 | CivicDataLab\n\n\n\n",
-      "last_modified": "2021-04-25T16:09:51+05:30"
+      "last_modified": "2021-05-10T10:35:49+05:30"
     }
   ],
   "collections": ["posts/posts.json"]

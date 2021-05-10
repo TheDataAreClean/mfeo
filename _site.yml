@@ -1,4 +1,4 @@
-name: "distill"
+name: "mfeo"
 title: "cube"
 description: |
   TheDataAreClean
@@ -32,7 +32,7 @@ navbar:
     - icon: fa fa-rss
       href: index.xml
 base_url: https://thedataareclean.com
-repository_url: https://www.github.com/thedataareclean/distill
+repository_url: https://www.github.com/thedataareclean/mfeo
 output:
   distill::distill_article:
     css: theme.css
